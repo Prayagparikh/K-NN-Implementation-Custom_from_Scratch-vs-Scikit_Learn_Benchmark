@@ -4,7 +4,7 @@ During my Machine Learning course CSE 6363 at the University of Texas at Arlingt
 ## Accuracy using K-Fold cross validation
 Accuracies are measured using k-fold, here 10-fold cross validation method, which is quite effective method for measuring accuracies.
 
-## Dataset
+## Datasets
 1. Hayes Roth Dataset:
 -> Find the Hayes roth dataset folder and the original files have been converted to .csv files for train and test datasets.
    Dataset download link: https://archive.ics.uci.edu/dataset/44/hayes+roth.
